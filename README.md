@@ -6,7 +6,7 @@ Ellie Nguyen, Elle Sanchez, Gus Mitkus, Heidi Wakefield
 ## Class: SCI 200 Grand Challenges in Science and Engineering
 
 ## Project:
-This repository contains all the files necessary to load a CNN model we created in Google Colab and utilize it to classify sign language letters from the webcam.    
+This repository contains all the files necessary to load a CNN model we created in Google Colab and use it to classify sign language letters from the webcam.    
 
 The repo contains a python script named "ASLInterpreter.py"    
 The script will 
