@@ -18,9 +18,8 @@ The script will
 
 ## Files 
 1. ASLInterpreter.py
-2. ASLInterpreterRoboflow.py
-3. asl_model.h5
-4. label_code.txt
+2. asl_model.h5
+3. label_code.txt
 
 ## Known Errors 
 
